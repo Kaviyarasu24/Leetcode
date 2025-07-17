@@ -81,3 +81,19 @@ Want to learn by doing?
 ```bash
 git clone https://github.com/Kaviyarasu24/leet_code.git
 cd leet_code
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Kaviyarasu24/Leetcode/tree/master/0016-3sum-closest) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Kaviyarasu24/Leetcode/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Kaviyarasu24/Leetcode/tree/master/0016-3sum-closest) |
+<!---LeetCode Topics End-->
