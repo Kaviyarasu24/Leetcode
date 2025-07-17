@@ -111,9 +111,18 @@ cd leet_code
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Kaviyarasu24/Leetcode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaviyarasu24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
