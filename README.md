@@ -87,6 +87,7 @@ cd leet_code
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kaviyarasu24/Leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Kaviyarasu24/Leetcode/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviyarasu24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaviyarasu24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -123,6 +124,7 @@ cd leet_code
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kaviyarasu24/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
 |  |
