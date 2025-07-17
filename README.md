@@ -88,6 +88,7 @@ cd leet_code
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Kaviyarasu24/Leetcode/tree/master/0016-3sum-closest) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviyarasu24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +101,8 @@ cd leet_code
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0009-palindrome-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviyarasu24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
