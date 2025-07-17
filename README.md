@@ -96,4 +96,8 @@ cd leet_code
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Kaviyarasu24/Leetcode/tree/master/0016-3sum-closest) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
