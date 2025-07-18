@@ -92,6 +92,7 @@ cd leet_code
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kaviyarasu24/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kaviyarasu24/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Kaviyarasu24/Leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviyarasu24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaviyarasu24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0189-rotate-array) |
@@ -144,6 +145,7 @@ cd leet_code
 | ------- |
 | [0001-two-sum](https://github.com/Kaviyarasu24/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Kaviyarasu24/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Kaviyarasu24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kaviyarasu24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0268-missing-number) |
