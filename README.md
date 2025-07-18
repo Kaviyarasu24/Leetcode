@@ -91,6 +91,7 @@ cd leet_code
 | [0016-3sum-closest](https://github.com/Kaviyarasu24/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kaviyarasu24/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Kaviyarasu24/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviyarasu24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaviyarasu24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0189-rotate-array) |
@@ -133,6 +134,7 @@ cd leet_code
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kaviyarasu24/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaviyarasu24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
