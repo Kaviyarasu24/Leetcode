@@ -95,6 +95,7 @@ cd leet_code
 | [0217-contains-duplicate](https://github.com/Kaviyarasu24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kaviyarasu24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kaviyarasu24/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,11 +108,13 @@ cd leet_code
 | ------- |
 | [0016-3sum-closest](https://github.com/Kaviyarasu24/Leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Kaviyarasu24/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +128,7 @@ cd leet_code
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaviyarasu24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +136,7 @@ cd leet_code
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Kaviyarasu24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kaviyarasu24/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,4 +149,8 @@ cd leet_code
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kaviyarasu24/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
