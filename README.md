@@ -98,6 +98,7 @@ cd leet_code
 | [0219-contains-duplicate-ii](https://github.com/Kaviyarasu24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kaviyarasu24/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Kaviyarasu24/Leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ cd leet_code
 | [0125-valid-palindrome](https://github.com/Kaviyarasu24/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaviyarasu24/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Kaviyarasu24/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
