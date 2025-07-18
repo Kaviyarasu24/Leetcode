@@ -131,6 +131,7 @@ cd leet_code
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/Kaviyarasu24/Leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Kaviyarasu24/Leetcode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
