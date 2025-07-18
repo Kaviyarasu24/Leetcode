@@ -122,6 +122,7 @@ cd leet_code
 | [0009-palindrome-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Kaviyarasu24/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,4 +162,5 @@ cd leet_code
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Kaviyarasu24/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
