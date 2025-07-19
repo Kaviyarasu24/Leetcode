@@ -75,4 +75,8 @@ This repository serves as:
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/Kaviyarasu24/Leetcode/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
