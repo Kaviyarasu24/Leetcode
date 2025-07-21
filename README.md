@@ -11,7 +11,7 @@ I'm currently pursuing a **B.Tech in Artificial Intelligence and Data Science** 
 - 🤖 Artificial Intelligence & Machine Learning  
 - ☁️ Cloud Computing & Networking (AWS)  
 - 🧠 Algorithms, Data Structures & Problem Solving  
-- 🔐 Cybersecurity and Secure Coding Practices
+- 🔐 Data Analytics & Dashboard Design
 
 ---
 
