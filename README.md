@@ -96,4 +96,12 @@ This repository serves as:
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaviyarasu24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Kaviyarasu24/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Kaviyarasu24/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
