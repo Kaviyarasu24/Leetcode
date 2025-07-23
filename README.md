@@ -78,6 +78,7 @@ This repository serves as:
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Kaviyarasu24/Leetcode/tree/master/0176-second-highest-salary) |
 | [0607-sales-person](https://github.com/Kaviyarasu24/Leetcode/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/Kaviyarasu24/Leetcode/tree/master/0620-not-boring-movies) |
 ## Hash Table
