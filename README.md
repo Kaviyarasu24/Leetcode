@@ -88,6 +88,7 @@ This repository serves as:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kaviyarasu24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaviyarasu24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -105,4 +106,8 @@ This repository serves as:
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Kaviyarasu24/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kaviyarasu24/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
