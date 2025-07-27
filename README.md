@@ -55,7 +55,7 @@ This repository serves as:
 ## 🤝 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kaviyarasup2411/)  
-- 🧠 [GitHub Profile](https://github.com/Kaviyarasu24)  
+- 🧠 [Codolio Profile](https://codolio.com/profile/kaviyarasu)  
 - 💼 [Portfolio (Coming Soon)]
 
 ---
