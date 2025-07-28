@@ -83,6 +83,7 @@ This repository serves as:
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kaviyarasu24/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/Kaviyarasu24/Leetcode/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/Kaviyarasu24/Leetcode/tree/master/0620-not-boring-movies) |
+| [1827-invalid-tweets](https://github.com/Kaviyarasu24/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Kaviyarasu24/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Hash Table
 |  |
