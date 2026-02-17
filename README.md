@@ -70,6 +70,7 @@ This repository serves as:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kaviyarasu24/Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ This repository serves as:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kaviyarasu24/Leetcode/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaviyarasu24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
