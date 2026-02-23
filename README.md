@@ -95,11 +95,13 @@ This repository serves as:
 | ------- |
 | [0001-two-sum](https://github.com/Kaviyarasu24/Leetcode/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaviyarasu24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Kaviyarasu24/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaviyarasu24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaviyarasu24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Kaviyarasu24/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Queue
 |  |
 | ------- |
@@ -132,4 +134,13 @@ This repository serves as:
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Kaviyarasu24/Leetcode/tree/master/0190-reverse-bits) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Kaviyarasu24/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Kaviyarasu24/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Kaviyarasu24/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
