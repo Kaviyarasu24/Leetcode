@@ -127,6 +127,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kaviyarasu24/Leetcode/tree/master/0007-reverse-integer) |
+| [1518-water-bottles](https://github.com/Kaviyarasu24/Leetcode/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Divide and Conquer
 |  |
@@ -148,6 +149,7 @@ This repository serves as:
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Kaviyarasu24/Leetcode/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
