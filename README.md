@@ -72,6 +72,7 @@ This repository serves as:
 | ------- |
 | [0001-two-sum](https://github.com/Kaviyarasu24/Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kaviyarasu24/Leetcode/tree/master/0007-reverse-integer) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,4 +145,16 @@ This repository serves as:
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Kaviyarasu24/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Simulation
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
