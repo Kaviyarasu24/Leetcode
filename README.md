@@ -71,12 +71,14 @@ This repository serves as:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kaviyarasu24/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kaviyarasu24/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kaviyarasu24/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Database
 |  |
@@ -134,6 +136,7 @@ This repository serves as:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kaviyarasu24/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Kaviyarasu24/Leetcode/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
