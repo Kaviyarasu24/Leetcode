@@ -75,6 +75,7 @@ This repository serves as:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaviyarasu24/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Kaviyarasu24/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaviyarasu24/Leetcode/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Kaviyarasu24/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +159,7 @@ This repository serves as:
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Kaviyarasu24/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/Kaviyarasu24/Leetcode/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kaviyarasu24/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
