@@ -110,6 +110,7 @@ This repository serves as:
 | [0020-valid-parentheses](https://github.com/Kaviyarasu24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaviyarasu24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Kaviyarasu24/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Kaviyarasu24/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Queue
 |  |
 | ------- |
