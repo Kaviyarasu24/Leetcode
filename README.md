@@ -147,6 +147,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Kaviyarasu24/Leetcode/tree/master/0190-reverse-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/Kaviyarasu24/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Kaviyarasu24/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
