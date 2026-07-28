@@ -1,16 +1,18 @@
 class Solution {
     public int reverse(int x) {
-        int temp = 0;
+        int result = 0;
         while (x != 0) {
-            int et = x % 10;
+            int last = x % 10;
             x /= 10;
-
-            // Check for overflow
-            if (temp > Integer.MAX_VALUE / 10 || (temp == Integer.MAX_VALUE / 10 && et > 7)) return 0;
-            if (temp < Integer.MIN_VALUE / 10 || (temp == Integer.MIN_VALUE / 10 && et < -8)) return 0;
-
-            temp = temp * 10 + et;
+            if (result > Integer.MAX_VALUE / 10 ||
+               (result == Integer.MAX_VALUE / 10 && last > 7))
+                return 0;
+            if (result < Integer.MIN_VALUE / 10 ||
+               (result == Integer.MIN_VALUE / 10 && last < -8))
+                return 0;
+            result = result * 10 + last;
         }
-        return temp;
+
+        return result;
     }
 }
